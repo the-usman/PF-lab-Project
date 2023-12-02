@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\lenovo\Desktop\PF lab Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\PF lab Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\PF lab Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(67,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\PF lab Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(70,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\PF lab Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(132,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\Desktop\PF lab Project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

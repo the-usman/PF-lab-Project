@@ -1,0 +1,16 @@
+23 Number of rounds which is played $12*
+Number rounds Usman wins is $6*
+Number rounds computer wins is $5*
+Number of games Draw is $3*
+23 Number of rounds which is played $14*
+Number rounds Usman wins is $6*
+Number rounds computer wins is $6*
+Number of games Draw is $2*
+23 Number of rounds which is played $2*
+Number rounds Usman wins is $0*
+Number rounds computer wins is $1*
+Number of games Draw is $1*
+23 Number of rounds which is played $3*
+Number rounds Usman wins is $0*
+Number rounds computer wins is $1*
+Number of games Draw is $2*

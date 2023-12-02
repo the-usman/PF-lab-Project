@@ -1,0 +1,4 @@
+23 Score of computer is $6*
+Score of Usmanis $0*
+Winner is   :    user$1*
+Winner is   :    computer$1*
